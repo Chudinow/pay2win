@@ -1,0 +1,16 @@
+**/.git
+**/.gitignore
+**/.dockerignore
+**/.env
+**/.env.local
+**/node_modules
+**/npm-debug.log
+**/dist
+**/build
+**/.next
+**/coverage
+**/.vscode
+**/.idea
+Dockerfile*
+docker-compose*
+README.md
